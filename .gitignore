@@ -1,0 +1,13 @@
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Backend
+backend/target/
+backend/*.log
+
+# Hide DB credentials
+backend/src/main/resources/application.properties
+
+# Env
+.env
