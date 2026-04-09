@@ -97,7 +97,7 @@ application.properties
 Example:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/ev_project
+spring.datasource.url=jdbc:mysql://localhost:3307/ev_project
 spring.datasource.username=root
 spring.datasource.password=your_password
 ```
